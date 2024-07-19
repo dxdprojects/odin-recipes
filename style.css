@@ -1,0 +1,19 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.one {
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+
+a {
+    font-size: 20px;
+}
+
+.recipe-name {
+    text-align: center;
+    background-color: tomato;
+    color: white;
+}
