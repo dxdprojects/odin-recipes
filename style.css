@@ -2,18 +2,35 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.one {
+.title {
     text-align: center;
     color: white;
     background-color: orange;
+    padding: 12px;
+}
+
+.links {
+    background-color: lightblue;
+    padding: 2px 30px;
+    margin: 30px;
 }
 
 a {
     font-size: 20px;
 }
 
+li {
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 5px;
+}
+
 .recipe-name {
     text-align: center;
     background-color: tomato;
     color: white;
+}
+
+.img-align {
+    text-align: center;
 }
